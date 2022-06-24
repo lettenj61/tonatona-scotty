@@ -1,4 +1,4 @@
-module Tonatona.Scotty (run) where
+module Tonatona.Scotty (Config(..), run) where
 
 import           RIO
 
